@@ -6,5 +6,8 @@ class program
         Console.WriteLine("wuigefqwe");
         Console.WriteLine("wuigefqwe"); 
         Console.WriteLine("wuigefqwe"); 
+        Console.WriteLine("wuigefqwe"); 
+        Console.WriteLine("wuigefqwe"); 
+        Console.WriteLine("wuigefqwe"); 
     }
 }
